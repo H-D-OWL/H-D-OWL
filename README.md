@@ -1,7 +1,12 @@
-## Hi there 👋
-
+## Hi👋
+- I am a beginner developer on Unreal engine 5. I can program in C++ and Bluprint.
+- I have already created several games that you can see here - https://hd-owl.itch.io/
+- Now I am working on a plugin. Which should simplify the work with variables in Unreal engine.
+- I am interested in working on a game or plugin as a team member.
 <!--
-**H-D-OWL/H-D-OWL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a beginner developer on Unreal engine 5. I can program in C++ and Bluprint.
+I have already created several games that you can see here - https://hd-owl.itch.io/
+Now I am working on a plugin. Which should simplify the work with variables in Unreal engine.
 
 Here are some ideas to get you started:
 
