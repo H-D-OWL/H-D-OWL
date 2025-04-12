@@ -1,5 +1,5 @@
 ## Hi👋
-- I am a developer on Unreal engine 5. I can program in C++ and Bluprint.
+- I am a developer on Unreal engine 5. I can program in C++ and Bluprint. I also understand Meta sound and creating plugins.
 - I have already created several games that you can see here - https://hd-owl.itch.io/
 - I am interested in working on a game or plugin as a team member.
 <!--
