@@ -53,31 +53,36 @@ As a result, C++ became more interesting to me than making games and plugins.
 
 <h2 align="center">Stats</h2>
 
+<!-- Top languages (centered, responsive) -->
 <p align="center">
-  <!-- Top languages card -->
   <a href="https://github.com/H-D-OWL/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-D-OWL&layout=compact&theme=react&hide_border=true"
-         alt="Top Languages" width="400"/>
+         alt="Top Languages" width="40%"/>
   </a>
 </p>
 
-<p align="center">
-  <!-- GitHub streak stats + GitHub stats side by side -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak Stats">
-    <img src="https://streak-stats.demolab.com/?user=H-D-OWL&theme=react&hide_border=true"
-         alt="Streak Stats" width="450"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/H-D-OWL/github-readme-stats" title="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=H-D-OWL&show_icons=true&theme=react&hide_border=true"
-         alt="GitHub Stats" width="430"/>
-  </a>
-</p>
+<table align="center" width="100%" cellspacing="2" cellpadding="0">
+  <tr>
+    <td align="center" width="48%">
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak Stats">
+        <img src="https://streak-stats.demolab.com/?user=H-D-OWL&theme=react&hide_border=true"
+             alt="Streak Stats" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="48%">
+      <a href="https://github.com/H-D-OWL/github-readme-stats" title="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=H-D-OWL&show_icons=true&theme=react&hide_border=true"
+             alt="GitHub Stats" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
+<!-- Contribution graph: full width but will fit profile column -->
 <p align="center">
-  <!-- Contribution graph / activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-D-OWL&theme=react-dark&hide_border=true"
        alt="Contribution Graph" width="100%"/>
 </p>
 
 <hr>
+
