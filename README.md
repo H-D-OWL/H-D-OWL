@@ -42,8 +42,8 @@ As a result, C++ became more interesting to me than making games and plugins.
 - [**ColorSearch**](https://github.com/H-D-OWL/ColorSearch) — WinAPI-based console application for detecting specific pixel colors on your screen and automating interactions.
 
 <p align="left">
-  &emsp;<img src="https://img.shields.io/badge/Status-WIP-68217A?style=flat&logo=visual-studio&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-14-00599C?style=flat&logo=cplusplus&logoColor=white," height="28"/>
+  &emsp;<img src="https://img.shields.io/badge/Status-WIP-68217A?style=flat&logo=visual-studio&logoColor=white&color=eff83f" height="28"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-14-00599C?style=flat&logo=cplusplus&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/System-Windows-0078D6?style=flat&logo=windows&logoColor=white" height="28"/>
   <a href="https://github.com/H-D-OWL/ColorSearch/releases" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/github/v/release/H-D-OWL/ColorSearch?style=flat&logo=github&logoColor=white" alt="Releases" height="28"/>
